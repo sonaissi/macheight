@@ -6,5 +6,5 @@ To run this script:
 	python /path/to/directory/app.py x (Where X is any number/sum of the height of a pair of players)
 
 
-Please Note that the script will only read the first argument and will ignore any extra arguments given in the command.
+Please Note that the script will only read the first argument after the filename and will ignore any extra arguments given in the command.
 
